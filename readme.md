@@ -2,4 +2,4 @@
 
 Esta serie de libros cuenta la historia de un hacker excepcional.
 
-**Luis Baeza**
+**Luis Baeza** , Git Fan.
